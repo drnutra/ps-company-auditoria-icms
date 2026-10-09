@@ -1,0 +1,8 @@
+# Preserva exatamente os bytes do pacote e seus hashes em qualquer sistema.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.xlsx binary
+*.docx binary

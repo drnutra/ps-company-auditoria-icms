@@ -1,0 +1,43 @@
+{
+  "data_referencia": "2026-10-09",
+  "empresa": "PS COMPANY LTDA",
+  "municipio": "Lagoa Santa/MG",
+  "regime_federal": "Lucro Presumido informado pelo usuário; histórico a confirmar",
+  "regime_estadual_no_termo": "Débito e Crédito",
+  "termo_data_emissao": "2026-08-31",
+  "prazo_textual": "5 dias contados do recebimento",
+  "ciencia": null,
+  "atos_posteriores": null,
+  "competencias_anexo": [
+    "202501",
+    "202502",
+    "202503",
+    "202504",
+    "202505",
+    "202506",
+    "202507",
+    "202508",
+    "202509",
+    "202511",
+    "202512",
+    "202601",
+    "202602",
+    "202603",
+    "202605"
+  ],
+  "competencias_ausentes_no_intervalo": [
+    "202510",
+    "202604"
+  ],
+  "totais_centavos": {
+    "credito": 2607477730,
+    "transferencias": 90863333,
+    "pix": 422148904,
+    "agregado_financeiro": 3120489967,
+    "faturamento_sef": 1513859593,
+    "diferenca_original": -1606630374
+  },
+  "fonte_pdf": "documentos-originais/intimacao-sefaz-mg-2026-08-31.pdf",
+  "fonte_sha256": "d52abd7c36848d065e18491ec6e244e19ad7568f9e2b6d170b71b1fd8485de04",
+  "notas": "Agregado VENDAS_CARTAO já inclui PIX e transferências. Diferença financeira não é imposto. Nenhum ajuste interno comprovado até este pacote."
+}

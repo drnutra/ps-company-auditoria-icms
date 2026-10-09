@@ -1,0 +1,273 @@
+{
+  "versao": 1,
+  "referencia": "2026-10-09",
+  "repositorio": "https://github.com/drnutra/ps-company-auditoria-icms",
+  "escopo": "Arquivos preparados para transferência; não significa conciliação empresarial concluída. O manifesto exclui a si próprio.",
+  "arquivos": [
+    {
+      "caminho": ".gitattributes",
+      "bytes": 165,
+      "sha256": "26d753be689c81ec7a0ffa4de9b43c7c83ab91911b511687c4221904b6417e00"
+    },
+    {
+      "caminho": ".gitignore",
+      "bytes": 180,
+      "sha256": "6d7be67eaeb512e6f9055bcc273390b4e3a62c5c2851663142896fca4a4fb72c"
+    },
+    {
+      "caminho": "AGENTS.md",
+      "bytes": 3659,
+      "sha256": "77e0c62df96f0ca1e7c1bd7e717cc87dbb4a4260f4999d5fde5dad8cde572875"
+    },
+    {
+      "caminho": "PROMPT_CONTINUACAO.md",
+      "bytes": 14604,
+      "sha256": "d7dcd7d339131a134bd7f6a9a6000926bd3c0ed2d4d370f7f52c83d17e299600"
+    },
+    {
+      "caminho": "README.md",
+      "bytes": 6672,
+      "sha256": "18d8c3c747f395efd155c60a6f3358d5131899cc16df17e162709dbc02b51066"
+    },
+    {
+      "caminho": "dados/fatos-confirmados.json",
+      "bytes": 1234,
+      "sha256": "3cc023375d4987990b20c69925761badaa2cad3005682e3c69313b5aa905d6fc"
+    },
+    {
+      "caminho": "dados/fisco-15-competencias.csv",
+      "bytes": 1143,
+      "sha256": "d9ed534aefded61895df862aecd44d534d3524e8006100354662bc607d121b9f"
+    },
+    {
+      "caminho": "docs/COLETA_DOCUMENTO_POR_DOCUMENTO.md",
+      "bytes": 7166,
+      "sha256": "45294992b8a758f276bb21296132e5322fc907e393c78e1570e96d6e77cadf86"
+    },
+    {
+      "caminho": "docs/CORRECOES_E_REGRAS_CRITICAS.md",
+      "bytes": 10946,
+      "sha256": "5f54b8a4c96e7a4166c5f042fc0d7834c12ed2c8c07a3c5ecbd1a17b605b2789"
+    },
+    {
+      "caminho": "docs/ESTADO_ATUAL.md",
+      "bytes": 6417,
+      "sha256": "c9ee5a86f7f75e3ffc8fd0c5e15d164dd66ee489eb016ccb49f096b6e4f67165"
+    },
+    {
+      "caminho": "documentos-originais/anexo-pagina-3.png",
+      "bytes": 53860,
+      "sha256": "21802aa508864cd0267e2e34ce366e35678de14c11ddb8689f8954113a75c730"
+    },
+    {
+      "caminho": "documentos-originais/extracao-textual.txt",
+      "bytes": 6153,
+      "sha256": "a83c4dce6e10209d03157fd51ff304524d10f8286596b4e46a3fcd180337b0f7"
+    },
+    {
+      "caminho": "documentos-originais/intimacao-sefaz-mg-2026-08-31.pdf",
+      "bytes": 317707,
+      "sha256": "d52abd7c36848d065e18491ec6e244e19ad7568f9e2b6d170b71b1fd8485de04"
+    },
+    {
+      "caminho": "documentos-originais/pagina-1.png",
+      "bytes": 324323,
+      "sha256": "f4b341ef2c1f27bdb037e2553d5dc3256564cdae267b9a89f9ac2fe4e7b5b967"
+    },
+    {
+      "caminho": "documentos-originais/pagina-2.png",
+      "bytes": 244475,
+      "sha256": "c86fa910da962c5e529e0b810fec5325789e9176c6b166fcc84c36dbfacdab44"
+    },
+    {
+      "caminho": "documentos-originais/pagina-3.png",
+      "bytes": 145430,
+      "sha256": "803e905f59da7ab449e2b54f09c656b6f643892564700b90e740627f9e1d4ff6"
+    },
+    {
+      "caminho": "entrada-local/README.md",
+      "bytes": 359,
+      "sha256": "095dd7f7155de5ca8a846b9677d27ddf460fd65649c3b627a636b3fb8863d251"
+    },
+    {
+      "caminho": "ferramentas-em-preparacao/README.md",
+      "bytes": 1241,
+      "sha256": "986bc772761b9be307c13ebcb7eccaeee207fa71f3a8982c8edb400b5f70a6d7"
+    },
+    {
+      "caminho": "ferramentas-em-preparacao/build-conciliacao.mjs",
+      "bytes": 14062,
+      "sha256": "8d29322cead500b0bf3b997361bb4b0de8a6d7d9fe43d63cb684eeb44af11fc7"
+    },
+    {
+      "caminho": "ferramentas-em-preparacao/build-quadro-17-meses.mjs",
+      "bytes": 11393,
+      "sha256": "90d34f5097b7931e490f2ab2931104330742886132e3a47c9678a3bae33cefd0"
+    },
+    {
+      "caminho": "ferramentas-em-preparacao/build_report.py",
+      "bytes": 14967,
+      "sha256": "95499d5516dc4b39d96376453cdc7d8988a36fbe2ff7ed30aa44c58bb4d8eccc"
+    },
+    {
+      "caminho": "ferramentas-em-preparacao/verification.json",
+      "bytes": 560,
+      "sha256": "898291a8f7e61f3bc1481c4b1bb4df0a5aeac5167c1094d0af315ceed9406011"
+    },
+    {
+      "caminho": "historico/conversa-visivel.json",
+      "bytes": 38361,
+      "sha256": "b73ede5fde9c193397fd484f96c725efb97fd9914b1055f9ae790ab7a4455c2d"
+    },
+    {
+      "caminho": "historico/conversa-visivel.md",
+      "bytes": 34568,
+      "sha256": "db45fc6a70dac73b94cc19cb66df2565c6ed00adbbe9ab66e25a7baba971edb1"
+    },
+    {
+      "caminho": "output/auditoria-icms/conciliacao-icms.xlsx",
+      "bytes": 12029,
+      "sha256": "a6a28eb379d32af46209efb3598d75e2cf591a3467ce58374ca4159dfa703bb6"
+    },
+    {
+      "caminho": "output/auditoria-icms/dossie-icms.md",
+      "bytes": 21431,
+      "sha256": "67b1d800b65791d6ffb3e0227ecd678eb11fa1d6394924742815b084a96b5247"
+    },
+    {
+      "caminho": "output/auditoria-icms/minuta-pedido-dados-prazo.md",
+      "bytes": 4165,
+      "sha256": "a83f8d44c82e9d05499a2ea35d8e3854628a1d3302685829f6d42f5e22ce04bd"
+    },
+    {
+      "caminho": "output/auditoria-icms/quadro-mensal-17-meses.xlsx",
+      "bytes": 11167,
+      "sha256": "d90977f5f20a07a912adf9c3a4e707573e15e6ce02c66f1b0a7c2282ff37ed57"
+    },
+    {
+      "caminho": "pesquisa/braip_conciliacao.md",
+      "bytes": 10434,
+      "sha256": "1be9ac896a34a9ab13fe2c0a925062fe6abc34c110e3dbbf7abdb0f3d194d820"
+    },
+    {
+      "caminho": "pesquisa/denuncia_multas.md",
+      "bytes": 12381,
+      "sha256": "290b4f11b11bfe1e0515311cdde6cb550d7eeafa7049804b859ba16bbb3f1036"
+    },
+    {
+      "caminho": "pesquisa/digitais_pix_presumido.md",
+      "bytes": 11977,
+      "sha256": "8fce9ed8f2ba4765e7e26ee9db755077fe92e78c80fa5deeb2cff89f2b336418"
+    },
+    {
+      "caminho": "pesquisa/jurisprudencia_dimp.md",
+      "bytes": 13281,
+      "sha256": "961846ccf2cae69aa9be1c3d3d520d1ccd20139c25f0cf418b1afb15bda167f2"
+    },
+    {
+      "caminho": "pesquisa/notas_apuracao.md",
+      "bytes": 10504,
+      "sha256": "464a911c1a2f3dae34ccf67955774e75b5dd995a83e2cb4d001bdae16e2e6301"
+    },
+    {
+      "caminho": "pesquisa/procedimento_prazos.md",
+      "bytes": 11032,
+      "sha256": "0be35acf7d06cd7551e4e38438da9233f9d83e7d94edaec2abedcdfe2b86839a"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/apuracao_integrada.md",
+      "bytes": 12635,
+      "sha256": "0a5946052b44e53565193ddddda210c5b56f5e49bc177d69a6b85caf44297330"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/dimp_metodo.md",
+      "bytes": 10724,
+      "sha256": "2d1b01a2c15efe65f5e7b925da09d0fdb7d9ed6c2f405ec255b8aab7120c1d5a"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/flexibilizacoes-ativas-consulta-2026-10-09.pdf",
+      "bytes": 3984395,
+      "sha256": "e7dfada115d74d761599ab2ea19d444f4aa30318f6d6e880da76af642c8862c9"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/flexibilizacoes-ativas-p115.png",
+      "bytes": 373469,
+      "sha256": "99e8fa75d465ef0df422ecc2bd498d997c3b5a26ee7f75404a11ad56fe5d7c86"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060762.docx",
+      "bytes": 52754,
+      "sha256": "6db381e555c4b5e218731f492ce6754f3d734f78f02aa0a57291492734335bde"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060762.txt",
+      "bytes": 3160,
+      "sha256": "e7077b741e72cd2029990b58b57c8170d67fcc7cdd0731bafc38ce3f262bd9b4"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060814.docx",
+      "bytes": 121918,
+      "sha256": "5c9ed289ede0e9bbea162fed2deae06483fbffc81675acec19e1f4394f30102a"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060814.txt",
+      "bytes": 3976,
+      "sha256": "8aa00ecb1f26968de911825e07635b41ca4655dfac4645b784b4112ebd298cfe"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060815.docx",
+      "bytes": 70363,
+      "sha256": "7c889351c0266315e8e6b28521f52d9eec3f59b0881d80c5bceb36aa66126332"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060815.txt",
+      "bytes": 4131,
+      "sha256": "40eb220d4fcb5de98912906e153e1a087c8d5b66f382aa54baae1e2929ad02c5"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060817.docx",
+      "bytes": 38371,
+      "sha256": "1fcdf57d46ddc0aa73decea2d2c394e72d8c80fe10876891ba7c70d7a4acbe12"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/fontes-regularizacao/mod060817.txt",
+      "bytes": 1379,
+      "sha256": "a2e8b036571e5b38dce466f5e097652c0978d53189b33f4ef8d6f7ceed34b016"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/normas_multas.md",
+      "bytes": 11636,
+      "sha256": "06a7667926540e6267b4793c6b32c36f5fea8e5342c29333afd9b7d9a767ad4c"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/procedimento.md",
+      "bytes": 12240,
+      "sha256": "7e354729418ac8c4707ff6f5373ffed8e6e6a10ebe25dc778f374f3f496ee7cd"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/provas_julgados.md",
+      "bytes": 10685,
+      "sha256": "794cf02e6ab6ae1e78a126bd002427db1d447c186e6b0a3fb51fd4cb94c4f6f6"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/quadro_advogada_metodo.md",
+      "bytes": 6562,
+      "sha256": "f36ecadb5329a2d83664948868ac89cef3fb1c8b44c54190dc871ff9779cdbbe"
+    },
+    {
+      "caminho": "pesquisa/segunda-auditoria/vias_regularizacao.md",
+      "bytes": 9727,
+      "sha256": "20c69fcec3be2f9b8bf4331a4e34ca96a6e4a66dfe91a0a8b5243b7007e88606"
+    },
+    {
+      "caminho": "scripts/validar_pacote.py",
+      "bytes": 6895,
+      "sha256": "00366e495274484946a1732adc3897a816f64380b819e9ae0b90fa7bb3007863"
+    },
+    {
+      "caminho": "validacao/ESCOPO_DA_VERIFICACAO.md",
+      "bytes": 2376,
+      "sha256": "c73fe2f72d93629ae67c17749720d01921fec62b49891bfeb0d722aed1f33c92"
+    }
+  ]
+}
